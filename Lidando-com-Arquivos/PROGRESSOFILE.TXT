@@ -1,0 +1,12 @@
+21:02 - 21/01/2023 
+
+Lembrar que trabalhar com Dados ( Data ) é Diferente de trabalhar com Arquivos ( Files )
+
+- Mesmo existindo o arquivo .Data como do capitulo 2{Lidando-com-Data}. 
+- .Data é gerado só quando compilado codigo em GNUCOBOL ? em mainframes possuem .Data sem ser output/input?
+
+-- VSAM x QSAM salvei no print 
+
+-- SEQUENTIAL FILES é o jeito de ler um arquivo Bruto so da para ler um dado se ler o arquivo inteiro.
+
+-- Tratar erro de leitura de arquivo

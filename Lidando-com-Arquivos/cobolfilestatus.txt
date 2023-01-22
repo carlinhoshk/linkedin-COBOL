@@ -1,0 +1,1 @@
+https://ibmmainframes.com/references/a27.html#:~:text=COBOL%20FILE%20STATUS%20CODES%3A&text=Codes%20beginning%20with%20a%20'1,'%20are%20%22Implementer%20defined%22.
